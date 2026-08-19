@@ -159,7 +159,7 @@ app.get('/', (req, res) => {
             <h1>Fresh GitOps Pipeline</h1>
 
             <p class="subtitle">
-                Hello Narendra! Your application is running successfully
+                Hello Narendra!! Your application is running successfully
                 on your local Kubernetes cluster.
             </p>
 
