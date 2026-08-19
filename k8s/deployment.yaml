@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: narendralabs/local-node-app:latest
+        image: narendra087/local-node-app:latest
         ports:
         - containerPort: 3000
         resources:
