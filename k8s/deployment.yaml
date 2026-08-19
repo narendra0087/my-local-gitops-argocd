@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: narendra087/local-node-app:6d3f904ccdb95958eb215adf2df20d212af7c78f
+        image: narendra087/local-node-app:5ec0c2df9922c5a9f85667e02bbe379ce7390f64
         ports:
         - containerPort: 8080
         resources:
